@@ -1,0 +1,6 @@
+alert ("bilalraza")
+alert ("new lesson")
+alert("43")
+alert ("true")
+alert ("false")
+alert ("11delete")
